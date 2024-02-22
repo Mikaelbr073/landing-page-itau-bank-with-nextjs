@@ -13,7 +13,7 @@ The project involves the creation of a modern and captivating landing page for a
 
 ## Screenshots
 
-![App Screenshot](public/image/2023-10-15 23-18-18.mp4)
+![App Screenshot](public/image/gif.gif)
 
 
 ## Install and running project
